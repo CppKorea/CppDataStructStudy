@@ -48,7 +48,24 @@ C++ Korea에서 진행하는 2018년 여름 특강입니다.
 
 #### 7월 14일
 
-TBA
+- 발표 자료
+    - [#1 Basic Concepts](https://github.com/CppKorea/CppDataStructStudy/blob/master/Lectures/Data%20Structure%20-%201st%20Study.pdf)
+        - Course Introduction
+        - Performance Analysis and Measurement
+    - [#2 Array](https://github.com/CppKorea/CppDataStructStudy/blob/master/Lectures/Data%20Structure%20-%202nd%20Study.pdf)
+        - Polynomial
+        - Sparse Matrix
+
+- 과제
+    - #1 Performance Analysis and Measurement
+        - [Problem](https://github.com/CppKorea/CppDataStructStudy/blob/master/Assignments/Data%20Structure%20-%20Assignment%20%231%20-%20Performance%20Analysis%20and%20Measurement%20-%20Problem.pdf)
+        - Solution (Coming soon)
+    - #2 Array
+        - [Problem](https://github.com/CppKorea/CppDataStructStudy/blob/master/Assignments/Data%20Structure%20-%20Assignment%20%232%20-%20Array%20-%20Problem.pdf)
+        - Solution (Coming soon)
+    - #3 Programming Assignment
+        - [Problem](https://github.com/CppKorea/CppDataStructStudy/blob/master/Assignments/Data%20Structure%20-%20Programming%20Assignment%20%231%20-%20Problem.pdf)
+        - Solution (Coming soon)
 
 #### 7월 22일
 
