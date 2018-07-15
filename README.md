@@ -69,7 +69,14 @@ C++ Korea에서 진행하는 2018년 여름 특강입니다.
 
 #### 7월 22일
 
-TBA
+- 발표 자료
+    - [#2 Array](https://github.com/CppKorea/CppDataStructStudy/blob/master/Lectures/Data%20Structure%20-%202nd%20Study.pdf)
+        - String Pattern Matching: KMP Algorithm
+    - #3 Stack and Queue (Coming soon)
+        - Stack
+        - Queue
+        - Maze
+        - Expression Calculation
 
 #### 7월 29일
 
